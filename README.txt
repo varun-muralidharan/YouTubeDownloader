@@ -7,6 +7,6 @@ Currently it downloads only from youtube.com Embedded YouTube videos are current
 
 It is enough to drag .crx file to chrome://extensions in chrome browser and click yes when popup is raised regarding permission to youtube.com site.
 
-&copy; Varun Muralidharan
+© Varun Muralidharan
 
 
