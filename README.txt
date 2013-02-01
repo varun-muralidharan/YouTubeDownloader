@@ -5,8 +5,8 @@ It is a YouTube Video Downloader for Chrome Extensions only that gives options t
 
 Currently it downloads only from youtube.com Embedded YouTube videos are currently not recognised.
 
-It is enough to drag .crx file to chrome://extensions in chrome browser and click yes when popup is raised regarding permission to youtube,com site.
+It is enough to drag .crx file to chrome://extensions in chrome browser and click yes when popup is raised regarding permission to youtube.com site.
 
-© Varun Muralidharan
+ï¿½ Varun Muralidharan
 
 
