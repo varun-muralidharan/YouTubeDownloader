@@ -1,0 +1,29 @@
+{
+  "name": "Youtube Downloader",
+  "version": "1.0",
+  "manifest_version": 2,
+  "description": "This plugin allows to download YouTube Videos. Currently it downloads only from youtube.com directly.",
+  "browser_action": {
+    "default_icon": "download.png"
+  },
+    "browser_action": {
+    "default_icon": "download.png"
+  },
+  "icons": 	{
+    "128":"download.png",
+	"16":"download.png",
+	"24":"download.png",
+	"32":"download.png",
+	"48":"download.png",
+	"64":"download.png"
+	},
+  "content_scripts":[
+    {
+      "matches":["*://www.youtube.com/watch?v=*"],
+      "js":["jquery.js","youtube.js"]
+    }
+  ],
+  "permissions": [
+    "http://www.youtube.com/"
+  ]
+}
